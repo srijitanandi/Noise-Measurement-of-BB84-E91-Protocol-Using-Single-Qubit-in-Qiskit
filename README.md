@@ -19,9 +19,9 @@ _Quantum Cryptography is the quantum analog to Classical Cryptography where the 
 
 
 ## Contributers
->Biswajit G
->Munsi A A
->Srijita N
->Ritajit M
->Debosmita B
->Soujanya R
+>[Biswajit G](https://github.com/bishwajitprasadgond);
+>Munsi A A;
+>[Srijita N](https://github.com/JinXy2001);
+>Ritajit M;
+>Debosmita B;
+>[Soujanya R](https://github.com/thecrazyphysicist369);
